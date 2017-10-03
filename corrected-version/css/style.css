@@ -1,0 +1,12 @@
+body {
+background: url(../images/background.png);	
+}
+img {
+	height: 300px;
+}
+ol {
+	font-size: 16px;
+}
+.start {
+	margin-top: 150px;
+}
